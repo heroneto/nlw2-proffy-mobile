@@ -18,10 +18,15 @@ Este projeto é um app Mobile para conectar professores e alunos. O projeto foi 
 
 <img src="https://raw.githubusercontent.com/heroneto/nlw2-proffy-mobile/master/screenshots/Screenshot_20200806220853.jpg" alt="Quer ser um Proffy">
 
+#### Filtros de Proffys disponíveis
+
+<img src="https://raw.githubusercontent.com/heroneto/nlw2-proffy-mobile/master/screenshots/Screenshot_20200807211906.jpg" alt="Filtros de Proffys disponíveis">
+
 #### Lista de Proffys disponíveis
 
-<img src="https://raw.githubusercontent.com/heroneto/nlw2-proffy-mobile/master/screenshots/Screenshot_20200806220858.jpg" alt="Lista de Proffys disponíveis">
+<img src="https://raw.githubusercontent.com/heroneto/nlw2-proffy-mobile/master/screenshots/Screenshot_20200807211924.jpg" alt="Lista de Proffys disponíveis">
 
 #### Lista de Proffys favoritados
 
-<img src="https://raw.githubusercontent.com/heroneto/nlw2-proffy-mobile/master/screenshots/Screenshot_20200806220900.jpg" alt="Lista de Proffys favoritados">
+<img src="https://raw.githubusercontent.com/heroneto/nlw2-proffy-mobile/master/screenshots/Screenshot_20200807211929.jpg" alt="Lista de Proffys favoritados">
+
